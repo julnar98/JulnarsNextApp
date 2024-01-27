@@ -35,7 +35,7 @@ This project is developed using Next.js.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The assignment comprises two files. The first file contains a component that needs to implement sorting functionality for an array of numbers using a custom algorithm, without using built-in sorting functions. The second file requires the creation of a function to validate whether a given string is a valid hex code. This involves checking for acceptable characters based on a predefined set.
+This project renders a friendly hello message and includes a Giphy animation for added engagement. The second file is a README providing concise instructions for running the Next.js app, detailing the technologies used, including Next.js, React, Tailwind CSS, Fetch API, and Giphy Embed. The project showcases practical proficiency in Next.js and related technologies, aligned with the goal of delivering a dynamic and engaging user experience.
 
 ## Used Platforms
 * [Next.js](https://nextjs.org)
